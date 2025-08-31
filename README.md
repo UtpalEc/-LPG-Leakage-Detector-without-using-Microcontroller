@@ -48,21 +48,12 @@ Requires no programming or microcontroller
 
 ## 🔄 Project Flowchart  
 
-   Start
-    !
-Initial Power Supply
-     !
-Is Sensor Output 
-greater than
- threshold?
-    !
-Activate Buzzer
-    !
-Gas Detection
+   
 
 ## ⚡ Circuit Diagram  
 
-![Circuit Diagram](images/circuit.png)  
+![Circuit Diagram](<img width="838" height="628" alt="image" src="https://github.com/user-attachments/assets/e6c62d30-e458-40b9-b8fb-d5e13fa5d4b7" />
+)  
 
 ![Untitled](https://github.com/user-attachments/assets/0b2987a0-c202-4cb8-b0d6-1baef35a1a39)
 
