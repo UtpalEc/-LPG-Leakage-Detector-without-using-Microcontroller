@@ -47,6 +47,7 @@ Easy to implement in households
 Requires no programming or microcontroller
 
 ## 🔄 Project Flowchart  
+blob:https://web.whatsapp.com/701373f7-fa02-4efd-851e-4db8e917cddc ![Untitled](https://github.com/user-attachments/assets/151ee113-1cb9-4702-8e2c-6c4b23ee2810)
 
    
 
