@@ -45,3 +45,6 @@ Reliable
 Easy to implement in households
 
 Requires no programming or microcontroller
+
+![Untitled](https://github.com/user-attachments/assets/0b2987a0-c202-4cb8-b0d6-1baef35a1a39)
+
